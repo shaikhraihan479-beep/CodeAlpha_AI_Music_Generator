@@ -5,3 +5,6 @@ __pycache__/
 *.mid
 *.midi
 *.keras
+
+!output/
+!output/generated_music.mid
